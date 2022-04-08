@@ -1,0 +1,19 @@
+body {
+  background: rgb(17, 24, 39);
+  color: rgb(255, 170, 51);
+  font-size: 80px;
+  margin: 0px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.text {
+  position: relative;
+  padding: 10px;
+  transition: 0.5s;
+}
